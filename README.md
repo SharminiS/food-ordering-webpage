@@ -26,15 +26,14 @@ Welcome to our Food Ordering Webpage repository! This project is a simple web ap
 - **CSS**: Styling language for enhancing the visual presentation of web pages.
 - **JavaScript**: Programming language for implementing interactive features and functionality.
 - **Bootstrap**: Frontend framework for building responsive and mobile-first websites.
-- **LocalStorage API**: Browser API for storing data locally in the user's browser.
 
 ## Installation
 
 To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine using `git clone https://github.com/your-username/food-ordering-webpage.git`
-2. Navigate to the project directory: `cd food-ordering-webpage`
-3. Open the `index.html` file in your web browser to view the webpage.
+3. Navigate to the project directory: `cd food-ordering-webpage`
+4. Open the `index.html` file in your web browser to view the webpage.
 
 ## Usage
 
@@ -54,3 +53,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 #### Project Link: [GitHub](https://github.com/SharminiS/food-ordering-webpage)
+
